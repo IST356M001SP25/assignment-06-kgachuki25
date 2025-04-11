@@ -1,20 +1,55 @@
 import requests
 
 # Put your CENT Ischool IoT Portal API KEY here.
-APIKEY = "APIKEYHERE"
+APIKEY = "696f7bf01b8b4098f3eaa2a9"
 
 def get_google_place_details(google_place_id: str) -> dict:
-    pass # Implement this function
+    '''
+    Takes place ID, and returns json data of details from
+    google place details API
+    '''
+    header = {"X-API-KEY": APIKEY}
+    params = {"place_id": google_place_id}
+    url = "https://cent.ischool-iot.net/api/google/places/details"
+    response = requests.get(url=url, headers=header, params=params)
+    response.raise_for_status()
+    return response.json()
     
 def get_azure_sentiment(text: str) -> dict:
-    pass # Implement this function
+    '''
+    Takes text string, and processes through azure sentiment analysis
+    API, returns json response
+    '''
+    header = {"X-API-KEY": APIKEY}
+    data = {"text": text}
+    url = "https://cent.ischool-iot.net/api/azure/sentiment"
+    response = requests.post(url=url, headers=header, data=data)
+    response.raise_for_status()
+    return response.json()
 
 def get_azure_key_phrase_extraction(text: str) -> dict:
-    pass # Implement this function
+    '''
+    Takes text string, and processes through key phrase extraction
+    API, returns json response
+    '''
+    header = {"X-API-KEY": APIKEY}
+    data = {"text": text}
+    url = "https://cent.ischool-iot.net/api/azure/keyphrasextraction"
+    response = requests.post(url=url, headers=header, data=data)
+    response.raise_for_status
+    return response.json()
 
 def get_azure_named_entity_recognition(text: str) -> dict:
-    pass # Implement this function
-
+    '''
+    Takes text string, and processes through entity recognition
+    API, returns json response
+    '''
+    header = {"X-API-KEY": APIKEY}
+    data = {"text": text}
+    url = "https://cent.ischool-iot.net/api/azure/entityrecognition"
+    response = requests.post(url=url, headers=header, data=data)
+    response.raise_for_status()
+    return response.json()
 
 def geocode(place:str) -> dict:
     '''
