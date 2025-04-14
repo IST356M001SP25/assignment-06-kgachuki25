@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Kiritu Gachuki
+Sudent Email:  kgachuki@syr.edu
 
 ## Instructions
 
@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+In this assignment, I learned how to use APIs and data transformations to create a data pipeline. The greatest challenge I had was with the data transformations, and trying to process the json coming from the APIs. Figuring out how the json data was layed out was a challenge, so I output them in streamlit to confirm I understood the data. I also tried out the API functions on the CENT API website so I could better understand how to handle the data. Overall, I was able to work out most of the bigger issues and get the output.
