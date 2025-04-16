@@ -1,0 +1,92 @@
+place_id,name,author_name,rating,sentence_text,sentence_sentiment,confidenceScores.positive,confidenceScores.neutral,confidenceScores.negative,entity_text,entity_category,entity_subCategory,confidenceScores.entity
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Melinda Capparelli,5,"The waitress was amazing, happy, and so encouraging with my mother in law, considering it was her first time having Vietnamese food. ",positive,1.0,0.0,0.0,waitress,PersonType,,1.0
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Melinda Capparelli,5,"The waitress was amazing, happy, and so encouraging with my mother in law, considering it was her first time having Vietnamese food. ",positive,1.0,0.0,0.0,mother in law,PersonType,,0.85
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Melinda Capparelli,5,"The waitress was amazing, happy, and so encouraging with my mother in law, considering it was her first time having Vietnamese food. ",positive,1.0,0.0,0.0,first,Quantity,Ordinal,1.0
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Melinda Capparelli,5,"The waitress was amazing, happy, and so encouraging with my mother in law, considering it was her first time having Vietnamese food. ",positive,1.0,0.0,0.0,Vietnamese,Location,CountryRegion,1.0
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Melinda Capparelli,5,"The waitress was amazing, happy, and so encouraging with my mother in law, considering it was her first time having Vietnamese food. ",positive,1.0,0.0,0.0,food,Product,,0.41
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Melinda Capparelli,5,"So good, in fact, I put the bowl up to my mouth, lol! ",positive,1.0,0.0,0.0,bowl,Product,,0.96
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,N B,4,Service was great. ,positive,1.0,0.0,0.0,Service,Skill,,0.96
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,N B,4,"The prices are a bit high, but portions are big and for a single individual could make several meals, so overall good rating. ",positive,0.96,0.04,0.0,individual,PersonType,,0.5
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,N B,4,"The prices are a bit high, but portions are big and for a single individual could make several meals, so overall good rating. ",positive,0.96,0.04,0.0,meals,Product,,0.75
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,N B,4,"I ordered vegan fried rice and vegan mei fun, both are excellent! ",positive,1.0,0.0,0.0,vegan fried rice,Product,,0.95
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,N B,4,"I ordered vegan fried rice and vegan mei fun, both are excellent! ",positive,1.0,0.0,0.0,vegan mei fun,Product,,0.78
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Fadi salam,5,This restaurant is something…,neutral,0.04,0.85,0.11,restaurant,Location,Structural,0.95
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Fadi salam,5,We have been to this restaurant couple of times and didn’t disappoint us. ,positive,0.86,0.04,0.1,restaurant,Location,Structural,0.98
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Fadi salam,5,"Taking from food to service is fast and better than another similar restaurants around Syracuse.
+",positive,1.0,0.0,0.0,restaurants,Location,,0.81
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Fadi salam,5,"Taking from food to service is fast and better than another similar restaurants around Syracuse.
+",positive,1.0,0.0,0.0,Syracuse,Location,City,1.0
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Fadi salam,5,Food is delicious (mild) and well cooked. ,positive,1.0,0.0,0.0,Food,Product,,0.97
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Fadi salam,5,They have many dishes that comes with your choice of meat chicken beef vegetarian and vegan as well. ,neutral,0.0,1.0,0.0,dishes,Product,,0.54
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Fadi salam,5,They have many dishes that comes with your choice of meat chicken beef vegetarian and vegan as well. ,neutral,0.0,1.0,0.0,meat,Product,,0.95
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Fadi salam,5,They have many dishes that comes with your choice of meat chicken beef vegetarian and vegan as well. ,neutral,0.0,1.0,0.0,chicken,Product,,0.48
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Fadi salam,5,They have many dishes that comes with your choice of meat chicken beef vegetarian and vegan as well. ,neutral,0.0,1.0,0.0,beef,Product,,0.59
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Fadi salam,5,They have many dishes that comes with your choice of meat chicken beef vegetarian and vegan as well. ,neutral,0.0,1.0,0.0,vegetarian,Product,,0.76
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Fadi salam,5,They have many dishes that comes with your choice of meat chicken beef vegetarian and vegan as well. ,neutral,0.0,1.0,0.0,vegan,Product,,0.87
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Fadi salam,5,"Just let you clarify the portion is great - like really good enough for one person, prices are decent and big menu.
+",positive,1.0,0.0,0.0,one,Quantity,Number,0.8
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Fadi salam,5,"Went there with family first time and ordered many dishes, all of them were wonderful and came with extra sauces. ",positive,1.0,0.0,0.0,family,PersonType,,0.75
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Fadi salam,5,"Went there with family first time and ordered many dishes, all of them were wonderful and came with extra sauces. ",positive,1.0,0.0,0.0,first,Quantity,Ordinal,1.0
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Fadi salam,5,"Went there with family first time and ordered many dishes, all of them were wonderful and came with extra sauces. ",positive,1.0,0.0,0.0,dishes,Product,,0.55
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Fadi salam,5,"Went there with family first time and ordered many dishes, all of them were wonderful and came with extra sauces. ",positive,1.0,0.0,0.0,sauces,Product,,0.91
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Fadi salam,5,"Meet Danny there very interesting guy from Vietnam and knows a lot about it 😇, very professional and knowledgeable about the food and sarcastic.
+",positive,1.0,0.0,0.0,Danny,Person,,1.0
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Fadi salam,5,"Meet Danny there very interesting guy from Vietnam and knows a lot about it 😇, very professional and knowledgeable about the food and sarcastic.
+",positive,1.0,0.0,0.0,Vietnam,Location,CountryRegion,1.0
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Fadi salam,5,"Meet Danny there very interesting guy from Vietnam and knows a lot about it 😇, very professional and knowledgeable about the food and sarcastic.
+",positive,1.0,0.0,0.0,professional,Skill,,0.99
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Fadi salam,5,Highly recommend this place and must try all dishes 😇😁,positive,1.0,0.0,0.0,place,Location,,0.54
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Fadi salam,5,Highly recommend this place and must try all dishes 😇😁,positive,1.0,0.0,0.0,dishes,Product,,0.57
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Kim Morton,5,This place is fantastic. ,positive,1.0,0.0,0.0,place,Location,,0.58
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Kim Morton,5,I ordered chicken pho and it was stellar. ,positive,0.73,0.16,0.11,chicken pho,Product,,0.99
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Kim Morton,5,"Service was excellent, they accommodated our large party without issue right away and were very attentive. ",positive,1.0,0.0,0.0,Service,Skill,,0.95
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Chris S,5,I was in the area for a Dr's appointment and it was my first time in town. ,neutral,0.05,0.94,0.0,Dr's appointment,Event,,0.6
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Chris S,5,I was in the area for a Dr's appointment and it was my first time in town. ,neutral,0.05,0.94,0.0,first,Quantity,Ordinal,1.0
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Chris S,5,I was in the area for a Dr's appointment and it was my first time in town. ,neutral,0.05,0.94,0.0,town,Location,Structural,0.68
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Chris S,5,After the appointment I needed something mild for my stomach. ,neutral,0.1,0.61,0.29,appointment,Event,,0.93
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Chris S,5,"I found this place on Google, stopped in to check out the menu, and ordered some Chicken Pho. ",neutral,0.01,0.99,0.01,Google,Organization,,0.74
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Chris S,5,"I found this place on Google, stopped in to check out the menu, and ordered some Chicken Pho. ",neutral,0.01,0.99,0.01,Chicken Pho,Product,,0.99
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Chris S,5,"The woman who waited on my was very nice and checked in on me several times, which I appreciated very much. ",positive,1.0,0.0,0.0,woman,PersonType,,0.92
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Chris S,5,The bonus was some vintage music playing which seemed very relaxing to me after a stressful morning and mid-day. ,positive,1.0,0.0,0.0,morning,DateTime,TimeRange,0.98
+ChIJq3w1Wn_x2YkR9HofEc9puio,Vietnamese Noodle House,Chris S,5,The bonus was some vintage music playing which seemed very relaxing to me after a stressful morning and mid-day. ,positive,1.0,0.0,0.0,mid-day,DateTime,Time,0.92
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,Steve Plaskon,4,In the area for business travel and like to try new places. ,positive,0.52,0.47,0.0,business,Skill,,0.92
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,Steve Plaskon,4,The wait staff was very friendly and helpful. ,positive,0.99,0.01,0.0,wait,PersonType,,0.55
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,Steve Plaskon,4,The wait staff was very friendly and helpful. ,positive,0.99,0.01,0.0,staff,PersonType,,0.54
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,Steve Plaskon,4,Ordered the spring rolls and pho.  ,neutral,0.01,0.97,0.02,spring,DateTime,DateRange,0.88
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,Steve Plaskon,4,Ordered the spring rolls and pho.  ,neutral,0.01,0.97,0.02,rolls,Product,,0.48
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,Steve Plaskon,4,Ordered the spring rolls and pho.  ,neutral,0.01,0.97,0.02,pho,Product,,0.53
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,Steve Plaskon,4,I only gave 4 stars on the food since some of the noodles were clumped together but overall taste was good. ,positive,0.98,0.0,0.01,4,Quantity,Number,0.8
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,Steve Plaskon,4,I only gave 4 stars on the food since some of the noodles were clumped together but overall taste was good. ,positive,0.98,0.0,0.01,food,Product,,0.52
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,Steve Plaskon,4,I only gave 4 stars on the food since some of the noodles were clumped together but overall taste was good. ,positive,0.98,0.0,0.01,noodles,Product,,0.94
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,Steve Plaskon,4,Note that the price is higher when paying with credit card. ,neutral,0.0,0.99,0.01,credit card,Product,,0.7
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,Steve Plaskon,4,This is noted very clearly on the menu. ,negative,0.0,0.45,0.55,menu,Product,,0.66
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,Steve Plaskon,4,Also they added a 15% tip. ,neutral,0.0,0.99,0.0,15%,Quantity,Percentage,1.0
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,Steve Plaskon,4,I will Vito again and recommend.,positive,0.99,0.01,0.0,Vito,Person,,0.56
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,Steve Plaskon,4,I will Vito again and recommend.,positive,0.99,0.01,0.0,Vito,Location,City,0.56
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,Culturetravel,5,"Authentic Vietnamese food, attentive friendly service. ",positive,1.0,0.0,0.0,Vietnamese,Location,CountryRegion,0.97
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,Culturetravel,5,"Authentic Vietnamese food, attentive friendly service. ",positive,1.0,0.0,0.0,food,Product,,0.64
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,Culturetravel,5,Excellent Vietnamese coffees.,positive,1.0,0.0,0.0,Vietnamese,Location,CountryRegion,1.0
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,Culturetravel,5,Excellent Vietnamese coffees.,positive,1.0,0.0,0.0,coffees,Product,,0.57
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,John Elmer,5,I love this place. ,positive,1.0,0.0,0.0,place,Location,,0.52
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,John Elmer,5,The food is great and it’s a simple ma and pa place. ,positive,1.0,0.0,0.0,food,Product,,0.84
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,John Elmer,5,The food is great and it’s a simple ma and pa place. ,positive,1.0,0.0,0.0,ma,Location,State,0.98
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,John Elmer,5,The food is great and it’s a simple ma and pa place. ,positive,1.0,0.0,0.0,pa,Location,State,0.92
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,John Elmer,5,The pho is outstanding! ,positive,1.0,0.0,0.0,pho,Skill,,0.86
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,John Elmer,5,( if you’re really hungry you can get extra noodles for $1) ,neutral,0.02,0.5,0.47,noodles,Product,,0.97
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,John Elmer,5,( if you’re really hungry you can get extra noodles for $1) ,neutral,0.02,0.5,0.47,$1,Quantity,Currency,1.0
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,John Elmer,5,I always get the spring rolls because they are super fresh. ,positive,0.96,0.04,0.0,spring rolls,Product,,0.72
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,John Elmer,5,The raw beef w tumerum is excellent. ,positive,1.0,0.0,0.0,beef w tumerum,Product,,0.86
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,John Elmer,5,We got the fish today ( see pic) and it was tasty.,positive,0.98,0.02,0.0,fish,Product,,0.62
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,John Elmer,5,We got the fish today ( see pic) and it was tasty.,positive,0.98,0.02,0.0,today,DateTime,Date,0.99
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,isaiah archie,5,Highly recommended Gem (first time trying) Curry chicken was 10/10 and so was the Pho,positive,1.0,0.0,0.0,Gem,Product,,0.83
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,isaiah archie,5,Highly recommended Gem (first time trying) Curry chicken was 10/10 and so was the Pho,positive,1.0,0.0,0.0,first,Quantity,Ordinal,0.96
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,isaiah archie,5,Highly recommended Gem (first time trying) Curry chicken was 10/10 and so was the Pho,positive,1.0,0.0,0.0,Curry chicken,Product,,0.97
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,isaiah archie,5,Highly recommended Gem (first time trying) Curry chicken was 10/10 and so was the Pho,positive,1.0,0.0,0.0,10/10,Quantity,Number,0.8
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,isaiah archie,5,Highly recommended Gem (first time trying) Curry chicken was 10/10 and so was the Pho,positive,1.0,0.0,0.0,Pho,Product,,0.99
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,Andy Zheng,5,I got the Bun Bi Cha Gio Nem and I love the fried egg roll and meatballs. ,positive,1.0,0.0,0.0,Bun Bi Cha Gio Nem,Product,,0.74
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,Andy Zheng,5,I got the Bun Bi Cha Gio Nem and I love the fried egg roll and meatballs. ,positive,1.0,0.0,0.0,fried egg roll,Product,,0.91
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,Andy Zheng,5,I got the Bun Bi Cha Gio Nem and I love the fried egg roll and meatballs. ,positive,1.0,0.0,0.0,meatballs,Product,,0.89
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,Andy Zheng,5,Maybe the egg rolls had taro inside which made it taste better 🤷. ,positive,0.94,0.04,0.02,egg rolls,Product,,0.97
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,Andy Zheng,5,"I forgot how long it took me to get my food, but it wasn’t long and the waiters always smiled when there was eye contact 😂. 15% gratitude is included in the bill and paying with cash cost less. ",positive,0.96,0.03,0.01,waiters,PersonType,,0.99
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,Andy Zheng,5,"I forgot how long it took me to get my food, but it wasn’t long and the waiters always smiled when there was eye contact 😂. 15% gratitude is included in the bill and paying with cash cost less. ",positive,0.96,0.03,0.01,15%,Quantity,Percentage,1.0
+ChIJXzHY70ny2YkRMytGWVnP-I0,New Century,Andy Zheng,5,I’m coming back for pho.,neutral,0.02,0.98,0.0,pho,Skill,,0.98

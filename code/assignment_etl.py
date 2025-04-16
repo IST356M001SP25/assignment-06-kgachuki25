@@ -32,7 +32,7 @@ def reviews_step(place_ids: str|pd.DataFrame) -> pd.DataFrame:
     
     reviews = pd.json_normalize(detail_list, record_path="reviews", meta= [["place_id"],["name"]])
     reviews_df = reviews[["place_id", "name", "author_name", "rating", "text"]]
-    reviews_df.to_csv(CACHE_REVIEWS_FILE)
+    reviews_df.to_csv(CACHE_REVIEWS_FILE, index = False, header = True)
     return reviews_df
 
 def sentiment_step(reviews: str|pd.DataFrame) -> pd.DataFrame:
@@ -62,7 +62,7 @@ def sentiment_step(reviews: str|pd.DataFrame) -> pd.DataFrame:
                                  "sentence_text", "sentence_sentiment",
                                  "confidenceScores.positive", "confidenceScores.neutral",
                                  "confidenceScores.negative"]]
-    sentiments_df.to_csv(CACHE_SENTIMENT_FILE)
+    sentiments_df.to_csv(CACHE_SENTIMENT_FILE, index = False, header = True)
     return sentiments_df 
 
 
@@ -102,7 +102,7 @@ def entity_extraction_step(sentiment: str|pd.DataFrame) -> pd.DataFrame:
                                "confidenceScores.neutral","confidenceScores.negative",
                                "entity_text", "entity_category", "entity_subCategory",
                                "confidenceScores.entity"]]
-    entities_df.to_csv(CACHE_ENTITIES_FILE)
+    entities_df.to_csv(CACHE_ENTITIES_FILE, index = False, header = True)
     return entities_df
 
 
